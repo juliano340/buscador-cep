@@ -100,3 +100,17 @@
         min-height: 250px;
     }
 }
+
+.footer{
+    
+    font-size: 16px;
+    margin-top: 600px;
+    justify-content: center;
+    position: absolute;
+}
+
+.footer-link {
+    color: #fff;
+    text-decoration: none;
+    
+}
