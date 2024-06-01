@@ -34,7 +34,7 @@ function App() {
       <div className="containerInput">
         <input
           type="text"
-          placeholder="Digite seu CEP..."
+          placeholder="Digite um CEP para consultar..."
           value={input}
           onChange={(e) => setInput(e.target.value)}
         />
